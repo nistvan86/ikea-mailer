@@ -19,5 +19,6 @@ do
     --mail-rcpt "$GMAIL_ADDRESS" \
     --user "$GMAIL_ADDRESS:$GMAIL_PASSWD"
 
+    sleep 1m
     sleep_until $CHECK_AT
 done
