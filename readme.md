@@ -29,4 +29,4 @@ Then you can use a `.env` file to configure it:
     STORES="<comma_seperated_store_ids>"
     ITEMS="<space separated item ids>"
 
-You can find out the store IDs needed with the `ikea-availability-checker tool`, check it's documentation. Item IDs are shown on their IKEA pages and also at the end of each item page's URL.
+You can find out the store IDs needed with the `ikea-availability-checker` tool, check it's documentation. Item IDs are shown on their IKEA pages and also at the end of each item page's URL.
