@@ -1,6 +1,6 @@
 ## ikea-mailer
 
-This is quickly hacked together very simple Docker image based tool which periodically checks the availability of some IKEA items and sends the results and forecasts to you in an email.
+This is a quickly hacked together very simple Docker image based tool which periodically checks the availability of some IKEA items and sends the results and forecasts to you in an email.
 
 It uses the [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) tool written by Ephigenia.
 
