@@ -1,0 +1,6 @@
+Subject: IKEA stock notifier
+Content-Type: text/html; charset="utf8"
+
+<html>
+<body>
+<pre style="font-size: 8px; white-space: pre">
