@@ -23,7 +23,7 @@ Example docker-compose entry to make this run as long as you don't stop it expli
 
 Then you can use a `.env` file to configure it:
 
-    CHECK_AT="9:00"
+    CHECK_AT="09:00"
     GMAIL_ADDRESS="<your_gmail_address>"
     GMAIL_PASSWD="<an_app_password_created_in_your_account>"
     STORES="<comma_seperated_store_ids>"
